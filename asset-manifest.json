@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/busadminapp/static/css/main.1aaf7e4e.css",
+    "main.js": "/github.io/busadminapp/static/js/main.23a6f135.js",
+    "static/js/787.57998f13.chunk.js": "/github.io/busadminapp/static/js/787.57998f13.chunk.js",
+    "static/media/signin-cover.png": "/github.io/busadminapp/static/media/signin-cover.520383d19742969ebb61.png",
+    "static/media/signup-cover.svg": "/github.io/busadminapp/static/media/signup-cover.d7c780004ae2ca2d3926.svg",
+    "static/media/signup-hero-image.png": "/github.io/busadminapp/static/media/signup-hero-image.40736a0ebdab82232fc3.png",
+    "static/media/signin-hero-image.png": "/github.io/busadminapp/static/media/signin-hero-image.7e3f46d06ddf264ed4cb.png",
+    "static/media/add-driver.png": "/github.io/busadminapp/static/media/add-driver.83152cf7cf062e0164d0.png",
+    "static/media/driver-cover.svg": "/github.io/busadminapp/static/media/driver-cover.48c3bb238d76838a7a31.svg",
+    "static/media/jojopay.png": "/github.io/busadminapp/static/media/jojopay.54e99ef0b4159d12b961.png",
+    "static/media/logo.svg": "/github.io/busadminapp/static/media/logo.60238d87e338850fe052ec918864cc2e.svg",
+    "index.html": "/github.io/busadminapp/index.html",
+    "main.1aaf7e4e.css.map": "/github.io/busadminapp/static/css/main.1aaf7e4e.css.map",
+    "main.23a6f135.js.map": "/github.io/busadminapp/static/js/main.23a6f135.js.map",
+    "787.57998f13.chunk.js.map": "/github.io/busadminapp/static/js/787.57998f13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1aaf7e4e.css",
+    "static/js/main.23a6f135.js"
+  ]
+}
